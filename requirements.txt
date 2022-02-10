@@ -1,4 +1,4 @@
-django==2.2.24
+django==2.2.27
 djangorestframework
 djangorestframework_jwt
 psycopg2==2.7.1
